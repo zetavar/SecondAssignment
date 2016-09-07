@@ -15,12 +15,13 @@ body{
     margin-bottom: 30px;
 }
 
+/* For the same result in both mozilla and chrome comment out font-family and font-variant */
 #header p{
     font-family: serif;
     font-weight: 600;
     color: #333;
     font-variant: small-caps;
-    font-size: 15px;
+    font-size: 18px;
     line-height: 0;
     letter-spacing: -1px;
 }
